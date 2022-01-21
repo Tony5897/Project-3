@@ -17,16 +17,20 @@
 
 
 # Expected Output
-## Describe:
+## Describe: beepBoop()
+  //Business Logic
 
 Test:
+Code:
+Expected Output: 
 
 Test:
-
+Code:
+Expected Output:
 
 Test:
-
-
+Code:
+Expected Output:
 
  # Setup/Installation Requirements
 * _Setup instruciton...Made simple_
