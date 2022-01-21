@@ -4,7 +4,8 @@
 # **Web-App0**
 
 # Technologies Used:
- * ***HTML, CSS, jQuery-3.6.0, and JavaScript***
+ * ***HTML, CSS, and JavaScript***
+ * _jQuery_
  * _Any other major technologies?_
  *
 
@@ -13,6 +14,9 @@
  * _What_
  * _Why_
  * _How_
+
+
+ *
 
 
 
