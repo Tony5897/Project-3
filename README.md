@@ -21,22 +21,19 @@
 
 
 # Expected Output
-## Describe: beepBoop()
-  //Business Logic
 
-  //TEST:
 
-Test:
-Code:
-Expected Output: 
+## *Business Logic*
 
-Test:
-Code:
-Expected Output:
+Describe: beepBop()
 
-Test:
-Code:
-Expected Output:
+* Test: "It should return a string with a 'e' "
+* Code: 
+*  _string ="0"_
+*  _function goElem(string, elem)_
+
+* Expected Output: True 
+
 
  # Setup/Installation Requirements
 * _Setup instruciton...Made simple_

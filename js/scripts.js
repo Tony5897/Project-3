@@ -1,19 +1,14 @@
-  //Business Logic
+//Business Logic
 
-  // //Test: 
-
-
+// //Testing:
 
 
+const elem ="0"  
+let string ="0"
+function goElem(elem, string) {
+  return (string === elem) ;
 
+};
 
-
-
-
-
-  
-  const 
-  let 
-  function (params) {
-    return ();
-  };
+goElem(elem, string)
+ 
